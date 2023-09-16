@@ -247,31 +247,7 @@
     ],
     
     "games" : [
-        {
-            "name" : "Skibidi Toilets: Cameramen",
-            "ico" : "https://assets.fortnitecreativehq.com/wp-content/uploads/2023/07/21222209/landscape_comp-2660-1040x585.jpeg",
-            "link" : "https://g.vseigru.net/9/igra-skibidi-tualety-kamerameny-vperjod/",
-            "cat" : "Overall",
-            "orientation" : "1"
-        },{
-            "name" : "Toilet Monster Long Neck",
-            "ico" : "https://img.gamemonetize.com/utz8cejau7u57kg8jj5eqieyx6q98td2/512x384.jpg",
-            "link" : "https://html5.gamemonetize.co/utz8cejau7u57kg8jj5eqieyx6q98td2/",
-            "cat" : "Overall",
-            "orientation" : "0"
-        },{
-            "name" : "Parkour 3D Version 3",
-            "ico" : "https://static.vseigru.net/flash/all/1/igra-parkur-podem-po-stenam.jpg",
-            "link" : "https://g.vseigru.net/10/igra-parkur-podem-po-stenam/",
-            "cat" : "Soccer",
-            "orientation" : "1"
-        },{
-            "name" : "Parkour 3D Version 4",
-            "ico" : "https://img.gamemonetize.com/xh98tvj7zzzfin2gq13xg7du9296cw69/512x384.jpg",
-            "link" : "https://g.vseigru.net/10/igra-vektor/",
-            "cat" : "Arcade",
-            "orientation" : "0"
-        }
+        
 
     ],
     
