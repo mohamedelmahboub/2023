@@ -8,6 +8,7 @@
             "rate_comment": true,
             
             "update_app" : false,
+             "demo" : "true",
             "activate_ads" : false,
             "activate_banner" : "on",
             "activate_inter" : "on",
