@@ -9,8 +9,8 @@
             
             "update_app" : false,
             "activate_ads" : false,
-            "activate_banner" : "on",
-            "activate_inter" : "on",
+            "activate_banner" : "off",
+            "activate_inter" : "off",
             
             "network" : "is",
 
