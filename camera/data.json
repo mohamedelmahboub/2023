@@ -2,17 +2,17 @@
     "ads": {
         
              "comment": [
-            "Amazing Game I really love it Only Up: Parkour 3D 😍","woow this is the best 👍", "ohh i really like this game 👏", "thanks for this game i like it"
+            "Amazing Game I really love it Only Up: skibidi 😍","woow this is the best 👍", "ohh i really like this game 👏", "thanks for this game i like it"
         ],   
         
             "rate_comment": true,
             
             "update_app" : false,
-            "activate_ads" : false,
-            "activate_banner" : "off",
-            "activate_inter" : "off",
+            "activate_ads" : true,
+            "activate_banner" : "on",
+            "activate_inter" : "on",
             
-            "network" : "is",
+            "network" : "fan",
 
             "one_signal" : "2ccba382-ac71-44c8-b339-06373d622f0d",
             
@@ -32,10 +32,10 @@
             "max_native": "87fe4f265186625d",
             "max_int": "19d629eb2d4327ec",
 
-            "fan_ban": "2455443151275039_2455451371274217",
-            "fan_native": "2455443151275039_2455451584607529",
-            "fan_int": "2455443151275039_2455451494607538",
-            "fan_rewarded": "2455443151275039_2455451697940851",
+            "fan_ban": "1276231583066754_1276232216400024",
+            "fan_native": "1276231583066754_1276232283066684",
+            "fan_int": "1276231583066754_1276232239733355",
+            "fan_rewarded": "1276231583066754_1278755682814344",
 
             "iron_key": "1767d8925",
             "iron_ban" : "DefaultBanner",
@@ -47,7 +47,7 @@
 
             "ad_score_amount" : 1,
             "ad_game_minutes" : 1,
-            "ad_int_interval" : 4,
+            "ad_int_interval" : 2,
             "score_rating_reward" : 3,
 
             "orientation": "landscape",
