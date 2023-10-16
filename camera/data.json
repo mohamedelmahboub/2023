@@ -50,7 +50,7 @@
             "ad_int_interval" : 2,
             "score_rating_reward" : 3,
 
-            "orientation": "landscape",
+            "orientation": "portrait",
 
             "game_name": "Impossible Car Parking Master 2023",
             "game_cover": "https://i.ytimg.com/vi/L6jhIX_aDe4/hqdefault.jpg",
