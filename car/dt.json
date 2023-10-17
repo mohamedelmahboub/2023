@@ -53,7 +53,7 @@
             "orientation": "portrait",
 
             "game_name": "Soccer Hero",
-            "game_cover": "https://img.gamepix.com/games/soccer-hero/cover/soccer-hero.png?width=600&height=340&fit=cover&quality=90",
+            "game_cover": "https://totallyscience.info/new/img/traffic-mania.png",
             "game_gif": "https://im4.ezgif.com/tmp/ezgif-4-9437172247.gif",
             "game_link": "https://html5.gamemonetize.co/1cy4xr03rncd083qx486w8mt28i7defa/",
 
@@ -181,7 +181,7 @@
             "bg" : "#ffffff"
         },
         {
-            "active" : "false",
+            "active" : "true",
             "active_reward" : "false",
             "name" : "Puzzle",
             "ico" : "https://9asso.github.io/published/imgs/btpuzzle.png",
