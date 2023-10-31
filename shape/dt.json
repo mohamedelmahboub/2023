@@ -6,7 +6,8 @@
         ],   
         
             "rate_comment": true,
-            
+
+            "demo" : "true",
             "update_app" : false,
             "activate_ads" : false,
             "activate_banner" : "off",
